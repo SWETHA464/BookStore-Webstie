@@ -2,7 +2,7 @@ Bookstore Website 📚
 
 Overview
 
-Welcome to the Bookstore Website, an interactive and user-friendly platform for book enthusiasts. Built with HTML, CSS, and JavaScript, this website allows users to explore a vast collection of books, read reviews, and seamlessly make purchases. Designed with a responsive layout, it ensures an optimal experience across laptops, tablets, and mobile devices.
+The Bookstore Website, an interactive and user-friendly platform for book enthusiasts. Built with HTML, CSS, and JavaScript, this website allows users to explore a vast collection of books, read reviews, and seamlessly make purchases. Designed with a responsive layout, it ensures an optimal experience across laptops, tablets, and mobile devices.
 
 Key Features 🚀
 
