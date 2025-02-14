@@ -36,16 +36,10 @@ Local Storage - Stores cart items and user preferences for a better experience
 
 How to Get Started 🏗️
 
-Clone the repository:
+Clone the repository: git clone https://github.com/swetha464/bookstore-website.git
 
-git clone https://github.com/swetha464/bookstore-website.git
+Navigate to the project directory: cd bookstore-website
 
-Navigate to the project directory:
-
-cd bookstore-website
-
-Open index.html in your browser:
-
-open index.html
+Open index.html in your browser: open index.html
 
 or manually open the file.
