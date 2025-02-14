@@ -8,7 +8,7 @@ Key Features 🚀
 
 🏠 Home Page - Displays featured books, bestsellers, and special offers
 
-📖 Books List Page - Browse and filter books by genre, author, and ratings
+📖 Shop Page - Browse and filter books by genre, author, and ratings
 
 📚 Book Page - Get detailed descriptions, reviews, and pricing of individual books
 
